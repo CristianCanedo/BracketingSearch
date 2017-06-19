@@ -1,9 +1,5 @@
 #include <iostream>
 #include <stdlib.h>
-#include <limits>
-#include <fstream>
-
-void PressEnterToContinue(); // Function prototype
 
 int main()
 {
